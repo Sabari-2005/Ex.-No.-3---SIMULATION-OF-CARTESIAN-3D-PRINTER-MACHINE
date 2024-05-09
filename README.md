@@ -59,9 +59,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![image](https://github.com/Sabari-2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139338709/1a613946-2996-4145-9f62-422fa2737041)
+![image](https://github.com/Sabari-2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139338709/f1757c8c-e4b5-4c8d-9d9e-f0217928b63f)
+![image](https://github.com/Sabari-2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139338709/332e1a21-1869-443b-b0d0-16531770dc1c)
+![image](https://github.com/Sabari-2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139338709/9242fac9-7781-4cbf-8710-d0e367049628)
 
-### Name: 
-### Register Number:
+
+
+### Name: R.Sabarinath
+### Register Number:212223100048
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
